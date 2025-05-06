@@ -25,6 +25,15 @@ This project is a sales analysis of Ferns and Petals (FNP), a gifting platform. 
 
 ---
 
+## 🛠 Tools Used:
+- Microsoft Excel
+- Data Visualization
+- Power Pivot
+- Power Query Editor
+- Dashboard Design
+
+---
+
 ## 📁 Files Included:
 
 - 📄 `Ferns and Petals Sales Analysis.pdf` – Project Report
@@ -33,12 +42,15 @@ This project is a sales analysis of Ferns and Petals (FNP), a gifting platform. 
 
 ---
 
-## 🛠 Tools Used:
-- Microsoft Excel
-- Data Visualization
-- Power Pivot
-- Power Query Editor
-- Dashboard Design
+## 🔧 How to Use
+1. Download the `.xlsx` file.
+2. Open it in Microsoft Excel or Google Sheets.
+3. Explore the interactive dashboard and analyze insights.
+
+---
+
+## 📷 Preview
+![Dashboard_Screenshot](https://github.com/user-attachments/assets/68eaeece-f068-4f94-8f60-03abde51b191)
 
 ---
 
