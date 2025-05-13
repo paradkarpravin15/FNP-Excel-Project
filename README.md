@@ -37,8 +37,8 @@ This project is a sales analysis of Ferns and Petals (FNP), a gifting platform. 
 ## 📁 Files Included:
 
 - 📄 `Ferns and Petals Sales Analysis.pdf` – Project Report
-- 🖼️ `Screenshot 2024-10-24 160552.png` – Dashboard Preview
-- 📊 Excel file (if available)
+- 🖼️ `Dashboard_Sscreenshot.png` – Dashboard Preview
+- 📊 `FNP-Dashboard` - Excel file 
 
 ---
 
